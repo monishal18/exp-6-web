@@ -194,8 +194,7 @@ button {
 
 <img width="896" height="750" alt="image" src="https://github.com/user-attachments/assets/cef30238-57af-4e13-b711-8b88c00a2dff" />
 
-```
 
-## Result
+ ## Result
 
 Thus, a React Registration Form was successfully created with form validation using the `useState()` Hook. Required fields, email format, and password length were validated, and appropriate error messages were displayed dynamically. The form was successfully submitted when all the entered details were valid.
